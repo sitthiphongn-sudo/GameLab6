@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.fbx binary
+*.glb binary
+*.res binary
+*.blend binary
+*.wasm binary
+*.pck binary

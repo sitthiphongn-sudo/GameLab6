@@ -1,0 +1,1 @@
+วาง MixamoBoneMap.tres, MeleeLib.res, ShooterLib.res ไว้ในโฟลเดอร์นี้

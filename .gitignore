@@ -1,0 +1,8 @@
+# Godot
+lab-6/.godot/
+.godot/
+*.translation
+export_credentials.cfg
+# Blender backups
+*.blend1
+*.blend2
