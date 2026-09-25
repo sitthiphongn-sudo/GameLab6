@@ -2,7 +2,7 @@
 
 
 
-▶️ **เล่นบนเว็บ:** https://USERNAME.github.io/GameLab6/  
+▶️ **เล่นบนเว็บ:** https://sitthiphongn-sudo.github.io/GameLab6/ 
 
 **ผู้จัดทำ** — รหัส: 673380350-7 · ชื่อ-สกุล: สิทธิพงษ์ นครขวาง · กลุ่มเรียน: AI 1
 
